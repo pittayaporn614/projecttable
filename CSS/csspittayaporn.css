@@ -1,0 +1,19 @@
+table {
+    width: 600px;
+    margin-top: 20px;
+}
+
+table, tr, th, td {
+    border: 0px black;
+    border-collapse: collapse;
+}
+
+th,td {
+    padding: 1px;
+}
+
+img {
+    width: 200px;
+    height: 130;
+}
+    
